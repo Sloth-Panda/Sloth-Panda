@@ -11,3 +11,4 @@
  [ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/achyut-kumar-panda-22967a19a/)
  [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/channels/792371177502801950/792371177502801953)
  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sloth-Panda)](https://github.com/Sloth-Panda/github-readme-stats)
