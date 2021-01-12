@@ -1,9 +1,4 @@
 ### Hello there 👋
-
-<!--
-**Sloth-Panda/Sloth-Panda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ## Here are some ideas to get you started:
 
 - 🔭 I’m currently working on MERN stack related stuff
@@ -14,4 +9,3 @@
 - 📫 How to reach me: 
 - 😄 Pronouns: (He/Him)
 - ⚡ Fun fact: Yet to discover that
--->
