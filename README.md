@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on MERN stack related stuff <br><br>
 - 👯 I’m looking to collaborate on full-stack dev projects and ideas <br><br>
 - 🤔 I’m looking for help with research and publishing papers related to full-stack web dev <br><br>
-- 📫 How to reach me: here's my gmail - achyutkumar488@gmail.com<br><br>
+- 📫 How to reach me: here's my gmail - [click](achyutkumar488@gmail.com)<br><br>
 - 😄 Pronouns: (He/His)<br><br>
 
  
