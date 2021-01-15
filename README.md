@@ -6,9 +6,7 @@
 - 😄 Pronouns: (He/His)<br><br>
 
  
- <img src="https://github-readme-stats.vercel.app/api?username=Sloth-Panda&&show_icons=true&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&theme=gruvbox">
-
-
+![Achyut's github stats](https://github-readme-stats.vercel.app/api?username=Sloth-Panda&theme=chartreuse-dark&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sloth-Panda&theme=merko)](https://github.com/Sloth-Panda/github-readme-stats)
   
  [ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/achyut-kumar-panda-22967a19a/)
