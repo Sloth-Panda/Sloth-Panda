@@ -1,4 +1,4 @@
-## Hello there, It's me Achyut 👋
+<h1 style="text-align: center"> Hello there, It's me Achyut 👋 </h1>
 - 🔭 I’m currently working on MERN stack related stuff
 - 👯 I’m looking to collaborate on full-stack dev projects and ideas
 - 🤔 I’m looking for help with research and publishing papers related to full-stack web dev
