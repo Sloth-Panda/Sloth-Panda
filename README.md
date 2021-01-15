@@ -11,7 +11,6 @@
 >NOTE : Top languages does not indicate my skill level or something, it's just a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats.
   
  [ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/achyut-kumar-panda-22967a19a/)
- [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/channels/792371177502801950/792371177502801953)
  
  
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
