@@ -1,10 +1,11 @@
 <h1 align="center"> Hello there 👋, It's me Achyut  </h1>
+<div style="margin: 0 auto; text-align: center; ">
 - 🔭 I’m currently working on MERN stack related stuff <br><br>
 - 👯 I’m looking to collaborate on full-stack dev projects and ideas <br><br>
 - 🤔 I’m looking for help with research and publishing papers related to full-stack web dev <br><br>
 - 📫 How to reach me: reach out  to me through <a href="mailto:achyutkumar488@gmail.com">gmail</a><br><br>
 - 😄 Pronouns: (He/His)<br><br>
-
+</div>
  
 ![Achyut's github stats](https://github-readme-stats.vercel.app/api?username=Sloth-Panda&theme=chartreuse-dark&count_private=true&show_icons=true)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sloth-Panda&theme=merko)](https://github.com/Sloth-Panda/github-readme-stats)<br>
