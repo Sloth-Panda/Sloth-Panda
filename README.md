@@ -2,7 +2,7 @@
 <p align="center">I’m currently focusing on  full-stack web dev. I am open to collaborate on full-stack dev projects ideas, research ideas, hackathons, open-source and if you are interested in publishing paper or doing research in full-stack you can reach out  to me through <a href="mailto:achyutkumar488@gmail.com">my gmail</a>.</p>
 </div>
  
-![Achyut's github stats](https://github-readme-stats.vercel.app/api?username=Sloth-Panda&theme=chartreuse-dark&count_private=true&show_icons=true)<br>
+![Achyut's github stats](https://github-readme-stats.vercel.app/api?username=Sloth-Panda&hide=stars&theme=chartreuse-dark&count_private=true&show_icons=true)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sloth-Panda&theme=merko)](https://github.com/Sloth-Panda/github-readme-stats)<br>
 >NOTE : Top languages does not indicate my skill level or something, it's just a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats.<br>
   
