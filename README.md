@@ -1,4 +1,4 @@
-<h1 align="center"> Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32px"> , I'm Achyut!</h1>
+<h1 align="center"> Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32px"> , I'm Achyut!</h1>
 <p align="center">I’m currently focusing on  full-stack web dev. I am open to collaborate on full-stack dev projects ideas, research ideas, hackathons, open-source and if you are interested in publishing paper or doing research in full-stack you can reach out  to me through <a href="mailto:achyutkumar488@gmail.com">my gmail</a>.</p>
 </div>
  
