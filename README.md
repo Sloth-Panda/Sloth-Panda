@@ -3,7 +3,7 @@
 </div>
  <br>
 
-
+<span>Click the drive for my resume ⏬ </span> <br> <br>
 [ <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">](https://drive.google.com/file/d/176LwoA-_8Z7uYzF-KIcy0wt78-BAw0Be/view)
 
 ![Achyut's github stats](https://github-readme-stats.vercel.app/api?username=Sloth-Panda&hide=stars&theme=chartreuse-dark&count_private=true&show_icons=true)<br>
